@@ -44,8 +44,7 @@ Overview
 # License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENCE) file for details.
-Credits
 
----
+# Credits
 
 Developed by [RedMoth](https://github.com/LicaRedMoth) in collaboration with [Gemini (Google AI)](https://gemini.google.com).
